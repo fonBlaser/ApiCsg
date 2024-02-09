@@ -1,2 +1,2 @@
 # ApiCsg
-API Client Generator tool for .NET libraries.
+API Client Source Generator tool for .NET libraries.
